@@ -3,3 +3,5 @@ Projeto pessoal que utilizo técnicas de Machine Learning para prever os resulta
 Base de dados contendo todos os jogos e resultados desde 2012.
 
 Utilizado alguns modelos de Machine Learning, alcançando uma acurácia de 58% (utilizando o modelo de Machine Learning Random Forest).
+
+Neste projeto utilizo linguagem Python e o Jupyter Notebook.
